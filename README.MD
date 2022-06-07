@@ -4,3 +4,4 @@ Meu contato profissional é **eradaskievicz@gmail.com**
 Tenho interesse em linguagens de programação , criar e desemvolver projetos com meus professor de PENSAMENTO COMPUTACIONAL e colegas
 Atualmente estou trabalhando em criar e desemvolver jogos no scrath e pretendo criar e desemvolver uma pagina html na web
 ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
